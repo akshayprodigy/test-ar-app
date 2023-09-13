@@ -11,6 +11,7 @@ function GroundDetector() {
 
     event.hitTest(new THREE.Vector3()).then((hit) => {
       if (hit) {
+        console.log("Ground Hit");
         placeObjectAt(hit.point);
       }
     });

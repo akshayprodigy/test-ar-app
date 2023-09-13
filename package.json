@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://akshayprodigy.github.io/test-ar-app",
-
   "dependencies": {
     "@react-three/fiber": "^8.14.1",
     "@react-three/xr": "^5.7.1",
